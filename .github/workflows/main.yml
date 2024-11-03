@@ -18,4 +18,4 @@ jobs:
         with:
           name: dist-without-markdown
           path: |
-            build
+            my-app/build
