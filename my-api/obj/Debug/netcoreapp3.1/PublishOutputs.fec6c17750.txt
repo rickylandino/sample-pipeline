@@ -1,0 +1,7 @@
+C:\Users\ricky\source\test repos\sample-pipeline\my-api\bin\Debug\netcoreapp3.1\publish\my-api.exe
+C:\Users\ricky\source\test repos\sample-pipeline\my-api\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\ricky\source\test repos\sample-pipeline\my-api\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Users\ricky\source\test repos\sample-pipeline\my-api\bin\Debug\netcoreapp3.1\publish\my-api.dll
+C:\Users\ricky\source\test repos\sample-pipeline\my-api\bin\Debug\netcoreapp3.1\publish\my-api.deps.json
+C:\Users\ricky\source\test repos\sample-pipeline\my-api\bin\Debug\netcoreapp3.1\publish\my-api.runtimeconfig.json
+C:\Users\ricky\source\test repos\sample-pipeline\my-api\bin\Debug\netcoreapp3.1\publish\my-api.pdb

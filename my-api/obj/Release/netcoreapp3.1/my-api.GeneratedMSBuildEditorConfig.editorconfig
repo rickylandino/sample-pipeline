@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = my_api
+build_property.ProjectDir = C:\Users\ricky\source\test repos\sample-pipeline\my-api\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
