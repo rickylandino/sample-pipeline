@@ -49,4 +49,4 @@ jobs:
       with:
         name: build Api
         path: |
-          my-api/bin/Release/net8.0/publish
+          my-api/bin/Release/netcoreapp3.1/publish
