@@ -5,5 +5,10 @@
     <RootNamespace>my_api</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Update="appsettings.*.json" CopyToPublishDirectory="Never" />
+    <Content Update="appsettings.$(MSBuildThisFileName).json" CopyToPublishDirectory="PreserveNewest" />
+    </ItemGroup>
+
 
 </Project>
